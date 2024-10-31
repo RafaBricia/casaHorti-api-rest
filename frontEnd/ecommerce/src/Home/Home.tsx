@@ -5,7 +5,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import './HomeStyle.css'
 
 const Home = () => {
-    let loggedUser={name:"lucas emanuel"}
+    let loggedUser={name:"lucas "}
     return(
         <>
         <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
